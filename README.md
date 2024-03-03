@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **react,Vue,NodeJs,Angular,React Native**
+- 💬 Ask me about **React,Vue,NodeJs,Angular,React Native**
 
 - 📫 How to reach me **manjunathvustepalli@gmail.com**
 
